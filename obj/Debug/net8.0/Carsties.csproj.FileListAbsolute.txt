@@ -110,3 +110,4 @@
 /Users/shuzhengwang/RiderProjects/Carsties/Carsties/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/shuzhengwang/RiderProjects/Carsties/Carsties/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/shuzhengwang/RiderProjects/Carsties/Carsties/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/shuzhengwang/RiderProjects/Carsties/Carsties/obj/Debug/net8.0/Carsties.sourcelink.json
